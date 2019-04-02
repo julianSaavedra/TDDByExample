@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TDDByExample-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"baseCurrency",
+		"targetCurrency",
+		"amount"
+	],
+	"name" : "CurrenciesRate",
+	"type" : "normal"
+}
