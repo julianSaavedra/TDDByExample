@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TDDByExample-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"wasRun"
+	],
+	"name" : "WasRunJulianTestCase",
+	"type" : "normal"
+}

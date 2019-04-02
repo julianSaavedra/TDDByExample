@@ -1,0 +1,4 @@
+actions
+run
+
+	self testMethod

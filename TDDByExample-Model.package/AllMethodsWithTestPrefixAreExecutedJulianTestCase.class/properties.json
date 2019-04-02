@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TDDByExample-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"testCount",
+		"count"
+	],
+	"name" : "AllMethodsWithTestPrefixAreExecutedJulianTestCase",
+	"type" : "normal"
+}

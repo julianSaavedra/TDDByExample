@@ -1,0 +1,4 @@
+accessing
+runTestCount
+
+	^count
